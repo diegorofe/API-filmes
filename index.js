@@ -8,8 +8,9 @@ const port = process.env.PORT || 3000;
 
 app.use(cors());
 
-app.get('/filmes', (req, res) => {
-    return res.json(filmes)
+app.get('/', (req, res) => {
+   
+    res.send("Olá Diego")
 });
 
 app.listen(port, () => {
