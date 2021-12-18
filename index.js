@@ -8,7 +8,8 @@ const cors = require('cors');
 
 const port = process.env.PORT || 3000;
 
-app.use(cors({origin: 'https://api-filmes-nodejs.herokua'}))
+//acesso livre. sem parâmetros de urls
+app.use(cors())
 
 app.get('/filmes', (req, res) => {
     return res.json(filmes);
