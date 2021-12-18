@@ -5,7 +5,7 @@ const filmes = require('./src/data/filmes.json')
 
 const port = process.env.PORT || 3000;
 
-app.get('/', (req, res) => {
+app.get('/filmes', (req, res) => {
     return res.json(filmes);
 });
 
