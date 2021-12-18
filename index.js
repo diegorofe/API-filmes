@@ -11,10 +11,6 @@ const port = process.env.PORT || 3000;
 //acesso livre. sem parâmetros de urls
 app.use(cors())
 
-app.get('/filmes/:id', (req, res) => {
-    return res.json(filmes);
-});
-
 app.get('/filmes', (req, res) => {
     return res.json(filmes);
 });
