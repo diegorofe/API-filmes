@@ -1,15 +1,17 @@
 const express = require('express');
-const server =  express();
+const app =  express();
 const filmes = require('./src/data/filmes.json')
 const cors = require('cors');
 
+const port = process.env.PORT || 3000;
 
-server.use(cors());
 
-server.get('/filmes', (req, res) => {
+app.use(cors());
+
+app.get('/filmes', (req, res) => {
     return res.json(filmes)
 });
 
-server.listen(3000, () => {
-    console.log('servidor está funcionando')
+app.listen(port, () => {
+    console.log('servidor está rodando na porta: ' + port)
 });
