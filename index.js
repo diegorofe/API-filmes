@@ -17,24 +17,25 @@ app.get('/filmes', (req, res) => {
     return res.json(filmes);
 });
 
-/*
-//FILTRO POR INDICE DO ARRAY
-app.get('/filmes/:index', (req, res) => {
-    const { index } = req.params;
-    
-    return res.json(filmes[index - 1]);
-});
-*/
 
-//GET BY ID
+//FILTRO POR INDICE DO ARRAY
+// app.get('/filmes/:index', (req, res) => {
+//     const { index } = req.params;
+    
+//     return res.json(filmes[index - 1]);
+// });
+
+
+//GET BY ID. RETORNA APENAS OBJETO QUE ESTÁ DENTRO DO ARRAY
 app.get('/filmes/:id', (req, res) => {
     const { id } = req.params;
        
     let filtroFilmes = filmes.filter( (item) => {
         return (item.id == id);
     });
-
-    return res.json(filtroFilmes)
+    
+    
+    return res.json(filtroFilmes.shift());
 });
 
 app.listen(port, () => {
