@@ -1,10 +1,10 @@
 [
     {
         "id": "1",
-        "nome": "Grey´s Anatomy",
-        "foto": "https://i.pinimg.com/originals/33/39/9d/33399df9faacc5de9e3928f52fabbacf.jpg",
-        "sinopse": "Durante sua residência, Meredith Grey vive paixões profissionais e pessoais com seus colegas médicos em um hospital de Seattle.",
-        "elenco": "Ellen Pompeo,Sandra Oh,Katherine Heigl"
+        "nome": "Missão Resgate",
+        "foto": "https://capas-m.imagemfilmes.com.br/164002_000_m.jpg",
+        "sinopse": "Após o desmoronamento de uma mina de diamantes, Mike (Liam Neeson), um experiente motorista de caminhão, é recrutado para liderar uma missão de resgate aparentemente impossível. Enfrentando baixas temperaturas e grandes tempestades, ele terá apenas 30 horas para transportar uma enorme carga sobre rios congelados e tentar salvar a vida dos mineradores soterrados.",
+        "elenco": "Liam NeesonLaurence FishburneHolt McCallanyAmber MidhunderMarcus ThomasBenjamin WalkerMatt McCoyMatt Salinger"
     },
     {
         "id": "2",
@@ -15,10 +15,10 @@
     },
     {
         "id": "3",
-        "nome": "Black Summer",
-        "foto": "https://i.pinimg.com/736x/e6/5a/3a/e65a3a4a13f4c0533bc1a74dd38673fb.jpg",
-        "sinopse": "Nos primeiros dias de um sombrio apocalipse zumbi, estranhos se unem para sobreviver e voltar para aqueles que amam.",
-        "elenco": "Jaime King,Justin Chu Cary,Christine Lee"  
+        "nome": "Juntos e Enrolados",
+        "foto": "https://capas-m.imagemfilmes.com.br/164878_000_m.jpg",
+        "sinopse": "Após dois anos juntos, Júlio (Rafael Portugal) e Daiana (Cacau Protásio) finalmente conseguem economizar o suficiente para realizar a tão sonhada festa de casamento. O grande dia chegou! Mas pouco antes da cerimônia, uma mensagem no celular do noivo acabou enrolando todos os planos. O casamento pode até ser cancelado, mas a festa não pode parar!",
+        "elenco": "Cacau ProtasioRafael PortugalFábio de LucaEvelyn CastroMarcos PasquimLeandro RamosMatheus CearáBerta LoranTony TornadoNeusa BorgesOtávio MartinsCézar MaracujáAaron PinheiroEmanuelle AraújoFafy Siqueira"  
     },
     {
         "id": "4",
@@ -36,10 +36,10 @@
     },
     {
         "id": "6",
-        "nome": "O Mentalista",
-        "foto": "https://i.pinimg.com/originals/69/d2/ab/69d2ab8af047c6698ddeb7af447d96e6.jpg",
-        "sinopse": "Um famoso (médium) se autointitula e começa a trabalhar como consultor do California Bureau of Investigation para encontrar (Red John), o louco que matou sua esposa e filha.",
-        "elenco": "Amanda Righetti,Owain Yeoman ,Tim Kang,Robin Tunney,Simon Baker"
+        "nome": "Debi & Lóide 2",
+        "foto": "https://capas-m.imagemfilmes.com.br/164266_000_m.jpg",
+        "sinopse": "Eles continuam os mesmos: engraçados, divertidos e ainda mais debilóides. Vinte anos após a sua última aventura, os bem-intencionados, porém não muito espertos, melhores amigos Harry Dunne (Jeff Daniels) e Lloyd Christmas (Jim Carrey) partem em busca da filha perdida de Harry, enquanto Lloyd tenta conquistar a sua mais nova paixão. No caminho, eles reencontram diversos personagens do passado e precisam aprender a lidar com responsabilidades para as quais nenhum deles está preparado. Os irmãos Bobby e Peter Farrelly assinam novamente a direção do filme, retomando a história de um de seus maiores sucessos.",
+        "elenco": "Angela KereczLaurie HoldenJim Carrey"
     },
     {
         "id": "7",
