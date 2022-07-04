@@ -1,52 +1,11 @@
 [
     {
         "id": "1",
-        "nome": "Missão Resgate",
-        "foto": "https://capas-m.imagemfilmes.com.br/164002_000_m.jpg",
-        "sinopse": "Após o desmoronamento de uma mina de diamantes, Mike (Liam Neeson), um experiente motorista de caminhão, é recrutado para liderar uma missão de resgate aparentemente impossível. Enfrentando baixas temperaturas e grandes tempestades, ele terá apenas 30 horas para transportar uma enorme carga sobre rios congelados e tentar salvar a vida dos mineradores soterrados.",
-        "elenco": "Liam NeesonLaurence FishburneHolt McCallanyAmber MidhunderMarcus ThomasBenjamin WalkerMatt McCoyMatt Salinger"
-    },
-    {
-        "id": "2",
-        "nome": "Vingadores Guerra Infinita",
-        "foto": "https://i.pinimg.com/736x/63/c7/41/63c741c433aa938eadafdbd386e4e676.jpg",
-        "sinopse": "Em Vingadores: Guerra Infinita, Thanos (Josh Brolin) enfim chega à Terra, disposto a reunir as Joias do Infinito. Para enfrentá-lo, os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes.",
-        "elenco": "Tom Holland,Chris Evans,Scarlett Johansson,Robert Downey Jr" 
-    },
-    {
-        "id": "3",
-        "nome": "Juntos e Enrolados",
-        "foto": "https://capas-m.imagemfilmes.com.br/164878_000_m.jpg",
-        "sinopse": "Após dois anos juntos, Júlio (Rafael Portugal) e Daiana (Cacau Protásio) finalmente conseguem economizar o suficiente para realizar a tão sonhada festa de casamento. O grande dia chegou! Mas pouco antes da cerimônia, uma mensagem no celular do noivo acabou enrolando todos os planos. O casamento pode até ser cancelado, mas a festa não pode parar!",
-        "elenco": "Cacau ProtasioRafael PortugalFábio de LucaEvelyn CastroMarcos PasquimLeandro RamosMatheus CearáBerta LoranTony TornadoNeusa BorgesOtávio MartinsCézar MaracujáAaron PinheiroEmanuelle AraújoFafy Siqueira"  
-    },
-    {
-        "id": "4",
-        "nome": "A Era do Gelo 4",
-        "foto": "https://i.pinimg.com/originals/71/63/5e/71635ee4e257edbef3f71e60b8226749.jpg",
-        "sinopse": "A louca perseguição de Scrat sempre à caça de sua noz inquieta - perseguição à qual ele tem se dedicado desde os primórdios dos tempos - tem consequências que mudam o mundo e causam um cataclismo continental que leva Manny, Diego e Sid a viverem a maior aventura de todos os tempos.",
-        "elenco": "Alessandra Vieira, Angélica Borges, Carolina Vieira,Christiane Louise, Carlos Gesteira"  
-    },
-    {
-        "id": "5",
-        "nome": "The Witcher",
-        "foto": "https://i.pinimg.com/736x/6c/40/3e/6c403ecb280e490fc89d6c58439158a4.jpg",
-        "sinopse": "O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.",
-        "elenco": "Henry Cavill,Anya Chalotra,Freya Allan"
-    },
-    {
-        "id": "6",
-        "nome": "Debi & Lóide 2",
-        "foto": "https://capas-m.imagemfilmes.com.br/164266_000_m.jpg",
-        "sinopse": "Eles continuam os mesmos: engraçados, divertidos e ainda mais debilóides. Vinte anos após a sua última aventura, os bem-intencionados, porém não muito espertos, melhores amigos Harry Dunne (Jeff Daniels) e Lloyd Christmas (Jim Carrey) partem em busca da filha perdida de Harry, enquanto Lloyd tenta conquistar a sua mais nova paixão. No caminho, eles reencontram diversos personagens do passado e precisam aprender a lidar com responsabilidades para as quais nenhum deles está preparado. Os irmãos Bobby e Peter Farrelly assinam novamente a direção do filme, retomando a história de um de seus maiores sucessos.",
-        "elenco": "Angela KereczLaurie HoldenJim Carrey"
-    },
-    {
-        "id": "7",
-        "nome": "Narcos",
-        "foto": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
-        "sinopse": "A notória série sobre o tráfico é baseada na história real de violência e poder dos cartéis colombianos.",
-        "elenco": "Wagner Moura,Pedro Pascal,Boyd Holbrook"
-    }  
+        "nome": "Bolo de Rolo",
+        "foto": "https://moinhoglobo.com.br/wp-content/uploads/2015/06/78-Bolo-de-rolo.jpeg",
+        "sinopse": "Bolo com cobertura de morango",
+        "elenco": "8,00"
+    }
+    
   ]
   
